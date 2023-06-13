@@ -6,4 +6,4 @@ Discover the hidden messages within pain and negative emotions, empowering yours
 
 The time for action is **now**, not tomorrow, but today!"
 
-![Cover](cover.png)
+![Cover](/images/cover.png)
