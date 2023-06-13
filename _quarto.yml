@@ -2,8 +2,9 @@ project:
   type: book
 
 book:
-  title: "emotionsAllyOrEnemy"
-  author: "Jane Doe"
+  title: "emotions: Ally Or Enemy"
+  subtitle: "emotions, will be your most powerful ally or your most dangerous enemy"
+  author: "emotiony.io"
   date: "12/6/2023"
   chapters:
     - index.qmd
