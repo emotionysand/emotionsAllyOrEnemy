@@ -1,0 +1,7 @@
+/.quarto/
+/_site/
+/_book/
+/.vscode/
+/_extensions/
+/site_libs/
+/.luarc.json
