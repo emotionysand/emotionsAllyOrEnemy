@@ -6,22 +6,35 @@ book:
   subtitle: "emotions, will be your most powerful ally or your most dangerous enemy"
   author: "emotiony.io"
   date: "12/6/2023"
+  page-navigation: true
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - chapter_01.qmd
-    - chapter_02.qmd
-    - chapter_03.qmd
-    - chapter_04.qmd
-    - emotiony.qmd
-    - references.qmd
+    - contents/summary.qmd
+    - contents/intro.qmd
+    - part: "Part I: Pain Exists"
+      chapters:
+        - part1/PainExists.qmd
+        - part1/DestructiveEmotions.qmd
+        - part1/BreakBadHabit.qmd
+    - part: "Part II: You can win"
+      chapters:
+        - part2/chapter_02.qmd
+    - part: "Part III: Or Die"
+      chapters:
+        - part3/chapter_03.qmd
+    - part: "Part IV: So, Action"
+      chapters:
+        - part4/chapter_04.qmd
+    - contents/emotiony.qmd
+    - contents/references.qmd
 
 
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: superhero
   epub:
     cover-image: cover.png
 

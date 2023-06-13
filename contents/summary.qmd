@@ -1,4 +1,6 @@
-# Summary
+# Summary {.unnumbered}
+
+## Introduction
 
 In `Emotions: ally or enenmy`, we embark on a profound exploration of life's journey through the lens of our emotions. From the break of dawn to the darkness that envelops the night, emotions shape our experiences, serving as both a formidable force and a potential barrier to our inner fire. 
 
@@ -8,6 +10,8 @@ It is within this context that we confront the misconception that emotions are t
 `Emotions: ally or enenmy` serves as a catalyst for personal growth and transformation. Armed with a deep understanding of our emotions and armed with the tools provided, we embark on a journey of self-discovery, resilience, and unwavering success. Let us seize this opportunity, embracing the call to action that resounds through these pages. The time for change is not some distant prospect—it is now, within our reach, waiting for us to claim it.
 :::
 
+## Ally or Enemy?
+
 Within these pages, we present two distinct pathways that lie before us, promising to elevate our lives and empower us indefinitely. `Emotions: ally or enenmy` equips us with a comprehensive toolkit, guiding us to understand the workings of our emotions and harness them effectively:
 
 - Our first pathway revolves around recognizing the signs of negative emotions, acknowledging their discomfort, and embracing them as valuable indicators. By doing so, we take the crucial first step towards unraveling our core issues and initiating transformative change.
@@ -15,11 +19,13 @@ Within these pages, we present two distinct pathways that lie before us, promisi
 
 Herein lies the treasure trove of wisdom, offering the entire toolkit necessary for our journey. <mark>We encourage each reader to savor the process and appreciate negative emotions as guides towards success. Embracing these emotions paves the way for the realization of our true selves, whether that means becoming an ambitious go-getter, a skilled artisan, a prosperous entrepreneur, or even the next Elon Musk. By transforming negative emotions from adversaries into allies, we cultivate a daily habit that fuels our inner warrior, providing us with inner peace—the birthplace of genuine progress and transformation.</mark>
 
+## Beyond
+
 Complementing this perspective, we recognize the significance of positive emotions as a confirmation that we are on the right path. However, our focus transcends the mere experience of emotions; we aim to showcase our authentic selves.
 
 This necessitates leveraging the non-emotional state as an ally rather than an enemy. By identifying and dismantling the subtle emotions that lurk behind our actions and cloud our judgment, we gain clarity and empower ourselves to make informed decisions.
 
 
 :::{.callout-note}
-Drawing inspiration from Byron Katie's wisdom, we internalize the notion that when a thought hurts, it is a signal that it is not true. `Emotions: ally or enenmy` distills the tools and timeless wisdom accumulated over millennia into a concise and accessible format, presented in four illuminating chapters. Within these chapters, readers will find invaluable insights, practical guidance, and the impetus to take action.
+Drawing inspiration from Byron Katie's wisdom, we internalize the notion that when a thought hurts, it is a signal that it is not true. `Emotions: ally or enenmy` distills the tools and timeless wisdom accumulated over millennia into a concise and accessible format, presented in four illuminating parts. Within these chapters, readers will find invaluable insights, practical guidance, and the impetus to take action.
 :::
