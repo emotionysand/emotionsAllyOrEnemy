@@ -36,7 +36,7 @@ format:
       light: cosmo
       dark: superhero
   epub:
-    cover-image: cover.png
+    cover-image: /images/cover.png
 
 
 
