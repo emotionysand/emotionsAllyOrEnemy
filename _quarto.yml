@@ -7,9 +7,12 @@ book:
   author: "emotiony.io"
   date: "12/6/2023"
   page-navigation: true
+  repo-url: https://github.com/emotionysand/emotionsAllyOrEnemy
+  repo-actions: [edit]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook, linkedin]
   chapters:
     - index.qmd
-    - contents/summary.qmd
     - contents/intro.qmd
     - part: "Part I: Pain Exists"
       chapters:
@@ -18,14 +21,28 @@ book:
         - part1/BreakBadHabit.qmd
     - part: "Part II: You can win"
       chapters:
-        - part2/chapter_02.qmd
+        - part2/YouCanWin.qmd
+        - part2/LevelsEnergy.qmd
+        - part2/Psychomagic.qmd
+        - part2/TheWork.qmd
+        - part2/PowerNow.qmd
+        - part2/SilvaMethod.qmd
+        - part2/MindValley.qmd
+        - part2/HappyMoney.qmd
+        - part2/Meditation.qmd
+        - part2/Lateralization.qmd
     - part: "Part III: Or Die"
       chapters:
-        - part3/chapter_03.qmd
+        - part3/OrDie.qmd
+        - part3/InnerCulture.qmd
+        - part3/OuterCulture.qmd
+        - part3/Identity.qmd
     - part: "Part IV: So, Action"
       chapters:
-        - part4/chapter_04.qmd
+        - part4/SoAction.qmd
+        - part4/Rules.qmd
     - contents/emotiony.qmd
+    - contents/summary.qmd
     - contents/references.qmd
 
 
@@ -37,6 +54,7 @@ format:
       dark: superhero
   epub:
     cover-image: images/cover.png
+  pdf: default
 
 
 

@@ -1,26 +1,54 @@
+---
+Title: "Destructive emotions"
+---
+
 
 # Destructive emotions
 
+## Constructive versus destructive
 
+As **Dalai Lama** and **Daniel Goleman** say [^1]:
 
-As Dalai Lama and Daniel Goleman say "Distinguishing between constructive (positive) and destructive (negative) emotions is right there to be observed in the moment when a destructive emotion arises-the calmness, the tranquility, the balance of the mind is immediately disrupted. Other emotions do not destroy equilibrium or the sense of well-being as soon as they arise, but in fact enhance it, therefore would be called constructive."
+>Distinguishing between constructive (positive) and destructive (negative) emotions is right there to be observed in the moment when a destructive emotion arises-the calmness, the tranquility, the balance of the mind is immediately disrupted.
+>Other emotions do not destroy equilibrium or the sense of well-being as soon as they arise, but in fact enhance it, therefore would be called constructive.
 
-Thus, when destructive emotions arise your inner energy vanish for log as it is fueling that negativity. We call destructive because they are destroying you. Positive emotions boost construction, therefore, creativity and new worlds emerge. 
+Thus, when ``destructive emotions`` arise your inner energy vanish for log as it is fueling that negativity. We call destructive because they are destroying you.
+
+Positive emotions boost construction, therefore, creativity and new worlds emerge. 
 
 So, emotions are your most inner and deep enemy, if you do not hear them.
 
-And, sure, emotions, as a living organism (pain-body) may create struggle because this dark power feedbacks your thoughts as well and as a consequence your actions which are soaring on those previous emotions and will create new destructive emotions and thoughts, and so, new actions, and so on.
+And, sure, emotions, as a living organism (``pain-body``) may create struggle because this dark power feedbacks your thoughts as well and as a consequence your actions which are soaring on those previous emotions and will create new destructive emotions and thoughts, and so, new actions, and so on.
 
-You see. You are in serious trouble, inside a hurting cycle.
+##  Hurting cycle
 
-This repetitive cycle, this repetitive emotions and thoughts create a solid pattern in your brain. Your are rewiring your brain to this. Creating something really physical, real and strong. You are delivering all your energy to that rewiring.
+You see. You are in serious trouble, inside a ``hurting cycle``.
 
+This repetitive cycle, <mark>this repetitive emotions and thoughts create a solid pattern in your brain. Your are rewiring your brain to this. Creating something really physical, real and strong. You are delivering all your energy to that **rewiring**.<mark>
+
+:::{.callout-note}
+## Identity
 Call it identity. Call it destiny. Call it bad luck. Call it struggle.
+:::
 
-That is struggling when you, as an exemple, rise a start-up (from "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers"). The struggle is when:
+## Struggle
 
-You wonder why you started the company in the first place and people ask you why you don’t quit and you don’t know the answer.
-When your employees think you are lying and you think they might be right. Besides, you don’t believe you should be CEO of your company and you are in over your head and know you can’t be replaced.
-When everybody thinks you are an idiot, but nobody will force you. Self-doubt becomes self-hatred.
-You are having a conversation with someone and you can’t hear a word they are saying because all you can hear is the struggle and furthermore, you are surrounded by people and you are all alone.
-You go on vacation to feel better and you feel worse and food loses its taste.
+That is **struggling** when you, as an exemple, rise a start-up [^2]. The struggle is when:
+
+- You wonder why you started the company in the first place and people ask you why you don’t quit and you don’t know the answer.
+- When your employees think you are lying and you think they might be right. Besides, you don’t believe you should be CEO of your company and you are in over your head and know you can’t be replaced.
+- When everybody thinks you are an idiot, but nobody will force you. Self-doubt becomes self-hatred.
+- You are having a conversation with someone and you can’t hear a word they are saying because all you can hear is the struggle and furthermore, you are surrounded by people and you are all alone.
+- You go on vacation to feel better and you feel worse and food loses its taste.
+
+Or family goes wrong, it can lead to personal health struggles and various negative experiences:
+
+- Feeling lost and questioning the purpose of your family or relationships.
+- Experiencing doubt and uncertainty about staying committed or making difficult decisions.
+- Struggling with self-esteem and feeling inadequate or incapable.
+- Feeling isolated and disconnected despite being surrounded by others.
+- Seeking solace or relief through vacations but finding that the emotional pain persists, affecting even basic pleasures like enjoying food.
+
+
+[^1]: [Destructive Emotions: A Scientific Dialogue with the Dalai Lama](https://www.goodreads.com/es/book/show/26332){.external}
+[^2]: [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/work/quotes/25548865-the-hard-thing-about-hard-things){.external}
