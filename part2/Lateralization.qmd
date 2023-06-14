@@ -21,25 +21,31 @@ To gain a comprehensive understanding of the world, we can follow a three-step a
 
 ### Step 1: Seek the Big Picture
 
-Begin by stepping back and seeking the broader context and interconnectedness of the subject. Engage the right hemisphere of the brain, which embraces a holistic view. This perspective allows you to grasp the larger patterns, relationships, and underlying meanings that may not be immediately apparent.
+Begin by stepping back and seeking the broader context and interconnectedness of the subject.
+
+<mark>Engage the right hemisphere of the brain, which embraces a holistic view. This perspective allows you to grasp the larger patterns, relationships, and underlying meanings that may not be immediately apparent.</mark>
 
 ### Step 2: Focus and Analysis of the Pieces
 
-After gaining an initial understanding of the big picture, shift your attention to the details and individual components. Activate the left hemisphere, which excels in focused attention and analysis. Break down the subject into smaller pieces and examine them in depth. This step helps you grasp the intricate nuances and finer aspects of the topic.
+After gaining an initial understanding of the big picture, <mark>shift your attention to the details and individual components.</mark>
+
+Activate the left hemisphere, which excels in focused attention and analysis. Break down the subject into smaller pieces and examine them in depth. This step helps you grasp the intricate nuances and finer aspects of the topic.
 
 ### Step 3: Take Back Control to the Right Hemisphere
 
-Once you have analyzed the pieces, it is essential to shift back to the right hemisphere to complete your understanding. Reconnect with the holistic view and integrate the details within the broader framework. Allow yourself to perceive the intrinsic value and deeper significance of the subject. By doing so, you can gain a more profound and meaningful comprehension of the world.
+Once you have analyzed the pieces, it is <mark>essential to shift back to the right hemisphere to complete your understanding</mark>.
+
+Reconnect with the holistic view and integrate the details within the broader framework. Allow yourself to perceive the intrinsic value and deeper significance of the subject. By doing so, you can gain a more profound and meaningful comprehension of the world.
 
 :::{.callout-note}
 ## 3-step approach to reality
 By following these three step:
 
- - seeking the big picture,
- - focusing on the pieces,
- - and returning to the holistic perspective
+ - **seeking** the big picture,
+ - **focusing** on the pieces,
+ - and **returning** to the holistic perspective
   
-you can cultivate a balanced and comprehensive understanding of the world around you.
+you can <mark>cultivate a balanced and comprehensive understanding of the world around you.</mark>
 
 This approach harnesses the strengths of both hemispheres of the brain, enabling you to navigate complexity and uncover the richness of reality.
 :::
@@ -48,9 +54,14 @@ This approach harnesses the strengths of both hemispheres of the brain, enabling
 
 The left hemisphere tends to focus on narrow, analytical attention, breaking things down into smaller constituents. It sees value as something we invent and separate from the world, serving a utilitarian purpose. In contrast, the right hemisphere seeks a holistic view, perceiving value as intrinsic to the cosmos and fundamental to reality itself.
 
+:::{.callout-note}
 The reductionist view prevalent in the contemporary world diminishes the significance of beauty, goodness, and truth. The consequences of this worldview are evident in our surroundings. The left hemisphere sees things as static and seeks to explain how motion arises, while the right hemisphere experiences everything as flowing and seeks to understand how stability emerges from this flow.
+:::
 
-Ian McGilchirst employs the example of an apple falling to illustrate that everything is in motion, and it is the flowing nature that constitutes ultimate reality. The challenge lies in perceiving distinct forms within this continuous flow. The analogy of flowing water with its turbulence and vortices helps explain this concept.
+
+Ian McGilchirst employs the example of an apple falling to illustrate that everything is in motion, and it is the flowing nature that constitutes ultimate reality.
+
+The challenge lies in perceiving distinct forms within this continuous flow. The analogy of flowing water with its turbulence and vortices helps explain this concept.
 
 By exclusively relying on a reductionist approach, we limit our understanding of reality, leading to an impoverished and meaningless worldview. The text suggests that we have prioritized mechanism over organism, forsaking nature and wisdom in favor of power.
 
