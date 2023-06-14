@@ -13,10 +13,34 @@ In fact, it is necessary the existence of this diverse amount of tools, skills a
 
 As we have seen, ``emotions`` are part of a human complex system design to relate to reality (and people). Emotions are central in this system of perception (body and brain), mind (thoughts and how thoughts are processed, as symbolism or language) and higher mind (altered states).
 
->Greatness is the courage to overcome obstacles.  
+>Greatness is the courage to overcome obstacles.
 >-- David Hawkins
 
-## Cheetsheat
+
+## For each situation, for each path, a unique tool
+
+Each person's journey is unique, and there are various approaches and techniques available to assist you along the way.
+
+:::{.callout-note}
+## Tools and methods
+These tools and resources offer practical insights and exercises tailored to our specific needs. They address the intricate connections between our emotions, mind, and higher consciousness. Emotions play a central role in how we perceive and interact with reality and other people.
+:::
+
+For instance, **David Hawkins**' book "*Levels of Consciousness*" <mark>explores the link between emotions and different levels of energy. It provides a framework for understanding how our emotions can range from destructive to constructive</mark>, and how shifting towards positive emotions can lead to personal fulfillment and positive external impact.
+
+**Alejandro Jodorowsky**'s "*Psychomagic*" <mark>introduces creative and symbolic acts that can bring about psychological transformations.</mark> By tapping into the language of dreams and using artistic expressions, this tool helps heal deep-seated emotional pain and facilitates personal growth.
+
+**Byron Katie**'s "*The Work*" <mark>emphasizes the power of questioning our thoughts and beliefs.</mark> By challenging the validity of our negative thoughts, we can alleviate suffering and free ourselves from self-imposed limitations.
+
+**Eckhart Tolle**'s "*The Power of Now*" <mark>focuses on the importance of living in the present moment and transcending the painbody,</mark> which is the accumulation of negative emotions stored in our bodies.
+
+Other tools include **Jose Silva**'s techniques for accessing altered states of consciousness, **Ken Honda**'s exploration of emotions related to money, **Vishen Lakhiani**'s approach to rewiring the mind for success, **Ian McGilchirst**'s brain lateralization and hemispheres modes and **Yongey Mingyur Rinpoche**'s guide to meditation.
+
+>Understanding the interplay between emotions, energy, and consciousness will help us navigate our personal journeys.
+
+Negative emotions can hinder our progress, while positive emotions empower us to create positive outcomes. By utilizing these tools and approaches, we will unlock our potential, heal emotional wounds, and shape a more fulfilling life.
+
+## Tools cheatsheet
 
 These tools, books, authors, methods and techniques are:
 
@@ -28,6 +52,7 @@ These tools, books, authors, methods and techniques are:
 - How emotions cope with money issues, Happy money by Ken Honda
 - How to hack out mind from modern view: MindValley and The code of the extraordinary mind by Vishen Lakhiani
 - How to understand meditation: Meditation, by Yongey Mingyur Rinpoche
+- How to understand our brain: The Matter of things, Ian McGilchrist
 
 [^1]: [](){.external}
 [^2]: [](){.external}
