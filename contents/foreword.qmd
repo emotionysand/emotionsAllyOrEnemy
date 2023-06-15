@@ -1,7 +1,22 @@
 
 
-# Prologue {.unnumbered}
+# Foreword {.unnumbered}
 
+As a neuroscientist hailing from New York University, I invite you on an extraordinary journey into the captivating realm of emotions. Through my extensive research and deep understanding of the human brain, I have unraveled the intricate mechanisms that govern our emotional experiences.
 
-
+::: {.column-margin}
 ![Cover](/images/cover.png)
+:::
+
+In this prologue, we embark on a quest to explore the profound power of emotions. From the bustling streets of New York City to the cutting-edge laboratories of NYU, I have witnessed firsthand the transformative impact emotions have on our lives.
+
+Together, we will delve into the fascinating world of neural pathways, neurotransmitters, and cognitive processes that orchestrate our emotional responses. With a keen eye for objectivity and a passion for unraveling scientific mysteries, I will guide you through the labyrinth of emotions, shedding light on their origins and unveiling their hidden potential.
+
+Throughout this journey, I will emphasize the positive aspects of emotions as catalysts for personal growth, resilience, and profound human connections. However, I also recognize that our understanding of emotions is a dynamic field, and there are areas where further exploration is needed to gain a more comprehensive perspective.
+
+Join me as we navigate the intricacies of the human mind, celebrating the power of emotions while also acknowledging the nuances and complexities they bring. Together, we will equip ourselves with invaluable knowledge and practical tools to harness the incredible potential of our emotional landscape.
+
+Prepare to embark on a transformational odyssey, where we will unlock the secrets of the mind, embrace the beauty of emotions, and discover the untapped reservoirs of our true selves. Together, let us illuminate the path to a deeper understanding of emotions and embrace their extraordinary power.
+
+**John Thomas Barrawell**
+

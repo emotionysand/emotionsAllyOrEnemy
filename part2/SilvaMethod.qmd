@@ -5,7 +5,9 @@
 ## Silva's method and altered state
 
 ::: {.callout-note}
-*José Silva* was an electronics repairman who developed the formerly known as Silva Mind Control. Silva did research on the brain and various brain frequencies, this tool aims to <mark>reach and sustain a state of mental functioning, called **alpha state**,</mark> where brainwave frequency is seven to fourteen Hz: daydreaming and the transition to sleeping are alpha states.
+*José Silva* was an electronics repairman who developed the formerly known as Silva Mind Control.
+
+Silva[^1] did research on the brain and various brain frequencies, this tool aims to <mark>reach and sustain a state of mental functioning, called **alpha state**,</mark> where brainwave frequency is seven to fourteen Hz: daydreaming and the transition to sleeping are alpha states.
 :::
 
 
@@ -53,5 +55,4 @@ Think one negative emotion o problem you can not solve. Keep it for minutes.
 Imagine it solves by a basic and general solution. Visualize it in detail.
 Recreate how it feels when the problem disappears, how it affects your family, and all the positive emotins related.
 
-[^1]: [](){.external}
-[^2]: [](){.external}
+[^1]: [José Silva](https://www.goodreads.com/author/show/3118399.Jos_Silva){.external}

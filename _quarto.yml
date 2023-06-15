@@ -18,6 +18,7 @@ book:
   sharing: [twitter, facebook, linkedin]
   chapters:
     - index.qmd
+    - contents/cover.qmd
     - contents/foreword.qmd
     - contents/intro.qmd
     - part: "Part I: Pain Exists"
