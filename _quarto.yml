@@ -3,7 +3,7 @@ project:
 
 book:
   title: "emotions: Ally Or Enemy"
-  subtitle: "emotions, will be your most powerful ally or your most dangerous enemy"
+  subtitle: "emotions, will be your most powerful ally or your most dangerous enemy, 2nd edition"
   author: "emotiony.io"
   date: "12/6/2023"
   page-navigation: true
@@ -55,11 +55,19 @@ book:
 
 format:
   html:
-    cover-image: cover.png
+    cover-image: images/cover.png
     theme: 
       light: cosmo
       dark: superhero
-  pdf: default
+  pdf:
+    documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body: 
+      text: |
+        \printindex
   epub:
     cover-image: images/cover.png
 

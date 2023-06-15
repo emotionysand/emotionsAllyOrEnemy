@@ -3,7 +3,7 @@
 
 ## Suddenly, it stops
 
-So, once we have set the problem, let's follow the lead.
+So, once we have set the problem: how bad are [destructive emotions](/part1/DestructiveEmotions.qmd), let's follow the lead.
 
 Maybe you have risen a family, or perhaps a start-up or a bright endeavour: you are in the creative arts and your are writing a book or acting in an important movie. Maybe you are in science or healing someone.
 
@@ -22,13 +22,13 @@ Just repetitive days as your repetitive thoughts. And destruction and negative e
 
 ## Do it, execute it
 
-Here is the fundamental problem: people think of ``execution`` of a task as the little side of the business or the boring part of jobs, something you should delegate while you focus on the perceived *bigger* issues or something more *creative* and *relevant*.
+Here is the fundamental problem: people think of ``execution`` or `getting the things done`[^1] of a task as the little side of the business or the boring part of jobs, something you should delegate while you focus on the perceived *bigger* issues or something more *creative* and *relevant*.
 
 Like boring stuff of a student who never pick the book.
 
 ::: {.callout-note}
 ## Execution is key
-This idea is completely wrong. Execution, getting things done is not just tactics—it is a discipline and a system. It is the most important thing. It is not a goal. It is the now.
+This idea is completely wrong. Execution, getting things done is not just tactics—it is a discipline and a system. It is the most important thing. It is not a goal. It is the now.[^2]
 :::
 
 
@@ -42,7 +42,7 @@ Execution and getting things done are not only the biggest issue facing life tod
 
 And, for sure, this pattern which creates all the things that surround you, this is, friends, jobs, habits, health, wealth. It is also creating your future and recreating your past.
 
-It is the way the brain works. It drives you and you feed it with your life. You are hijacking yourself.
+>It is the way the brain works. It drives you and you feed it with your life. You are hijacking yourself.
 
 You know perfectly that place, where there is no freedom and always there are no options to choose. But nobody takes you to that place except you: repetitive thoughts and emotions sculpt your body. You body reflects you. Your skin reflects you.
 
@@ -55,5 +55,5 @@ So far, bad news.
 Now, the good news is coming: thoughts and body are key and will help you to solve this struggle. This pain.
 :::
 
-[^1]: [](){.external}
-[^2]: [](){.external}
+[^1]: [GTD: Getting Things Done Movement](https://gettingthingsdone.com/){.external}
+[^2]: [Getting Things Done: The Art of Stress-Free Productivity / Getting Things Done for Teens](https://www.goodreads.com/book/show/40784585-getting-things-done){.external}
