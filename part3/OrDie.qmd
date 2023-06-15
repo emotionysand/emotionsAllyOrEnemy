@@ -3,48 +3,59 @@
 
 ## Emotions
 
+:::{.callout-note}
+## emotions
 Emotions are bio-cultural mental states associated with the nervous system and the culture where you live. Emotions are central among with thoughts, feelings, physical and behavioural responses, and a degree of pleasure or displeasure, pain or relief.
+:::
+
 
 Emotions produce different physiological, behavioural and cognitive changes and they are a very complex process where those systems play a relevant key-role but not yet fully defined.
 
-Emotion is also linked to behavioural tendency. As an example, if you are an extroverted person you are more likely to be social and express your emotions, while if you are introverted one, your are more likely to be more socially withdrawn and conceal your emotions.
+<mark>Emotion is also linked to behavioural tendency.</mark> As an example, if you are an extroverted person you are more likely to be social and express your emotions, while if you are introverted one, your are more likely to be more socially withdrawn and conceal your emotions.
 
 Therefore, emotion is often the driving force behind lots of behaviours, positive or negative, depending on the nature of emotion.
 
 While the biological component of emotions is pretty clear, the cultural role is yet not well know but critical on some aspects:
 
-inner culture related to your own identity and core family beliefs
-as much as outer and social culture as well as cognitive bias and universal beliefs.
+- **inner culture** related to your own identity and core family beliefs
+- as much as **outer and social culture** as well as cognitive bias and universal beliefs.
 
 Then, all these components act at the very moment of building a single emotion:
 
-biology and physiology
-primary response
-the structure itself of your brain
-culture
-inner culture
-education and family traits,
-level of energy
-emotional background: painbody,
-outer (and environmental) culture
-cognitive bias
-universal beliefs
-country culture and language
+- biology and physiology
+  - primary response[^2]
+  - the structure itself of your brain[^1] and [hemispheres](/part2/Lateralization.qmd#two-hemispheres-two-modes)
+- culture
+  - inner culture
+    - education and family traits
+    - personality[^6]
+    - [level of energy](/part2/LevelsEnergy.qmd#levels-of-energy)
+    - emotional background: [painbody](/part2/PowerNow.qmd#painbody)
+  - outer (and environmental) culture
+    - cognitive bias[^4]
+    - universal beliefs[^5]
+    - country culture and language
+    - moral foundations[^3]
 
 
 
 ## Biology and Physiology
 
-The joining between both components, biology and culture (inner and outer), is the emotion-building where the feeling is a key-bond together with the primary response (physical response as fight, fly, freeze, faint, etc..) which feedback on both ways constantly.
+The joining between both components, biology/psychology and culture (inner and outer), is the emotion-building where the feeling is a key-bond together with the primary response (physical response as fight, fly, freeze, faint, etc..) which feedback on both ways constantly.
 
 Between the sophisticated system which is a feeling and the biological and pyhsiological primary response there is the structure itself of your brain that shapes time and space.
 
-Therefore, this framewrok of time and space stain the way your brain starts to elaborate thoughts and emotions,
+Therefore, this framewrok of time and space stain the way your brain starts to elaborate thoughts and emotions, *Immanuel Kant* tells us that **space and time are the pure (``a priori``) forms of how we collect information from the outer.** 
 
-Immanuel Kant tells us that space and time are the pure (a priori) forms of how we collect information from the outer. 
-
-Intuition is contrasted with the conceptualization (or categorization. before you taint thoughts with your painbody, bias, family traits or beliefs) performed by the understanding, and involves the way in which we passively receive data through the external world. 
+*Intuition* is contrasted with the *conceptualization* (or categorization. before you taint thoughts with your painbody, bias, family traits or beliefs) performed by the understanding, and involves the way in which we passively receive data through the external world. 
 
 Physical sensation (before emotion) itself is the “matter” of intuition, but its “form” lies in us, as the way in which this data is organized.
-Inner culture
 
+
+
+[^1]: [Understanding Emotions: Origins and Roles of the Amygdala](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8228195/){.external}
+[^2]: [Emotions as Bio-cultural Processes: Disciplinary Debates and an Interdisciplinary Outlook](https://www.researchgate.net/publication/226609158_Emotions_as_Bio-cultural_Processes_Disciplinary_Debates_and_an_Interdisciplinary_Outlook){.external}
+[^3]: [Moral Foundations Theory](https://moralfoundations.org/){.external}
+[^4]: [Cognitive bias codex](https://www.sog.unc.edu/sites/www.sog.unc.edu/files/course_materials/Cognitive%20Biases%20Codex.pdf){.external}
+[^5]: [Universal Beliefs](https://thework.com/wp-content/uploads/2018/02/universal_beliefs_en_21nov2016_ltr_r3.pdf){.external}
+[^6]: [The big five personality traits](https://bigfivepersonalitytraits.com/){.external}

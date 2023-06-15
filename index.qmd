@@ -1,4 +1,4 @@
-# Preface {.unnumbered}
+# Welcome {.unnumbered}
 
 > Embrace the Whisper: Unlock the Power of Emotions, Transform Your Life, and Thrive Now!
 
@@ -6,4 +6,5 @@ Discover the hidden messages within pain and negative emotions, empowering yours
 
 The time for action is **now**, not tomorrow, but today!"
 
-![Cover](/images/cover.png)
+[emotiony.io](https://www.emotiony.io/){.external}  
+[Blog emotiony.io](https://blog.emotiony.io/){.external}

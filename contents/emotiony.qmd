@@ -1,3 +1,27 @@
 
 # emotiony.io
 
+[emotiony.io](https://www.emotiony.io/){.external}  
+[Blog emotiony.io](https://blog.emotiony.io/){.external}
+
+
+
+## What is emotiony.io
+
+![emotiony](/images/logoWhiteQuote.png)
+
+[emotiony.io](http://emotiony.io/) is a **web app** that collects, sells and rewards anonymous emotional data.  
+
+The emotional big data **make the difference when it comes to making emotional-data-driven decisions.**
+ 
+[emotiony.io](http://emotiony.io/) users play and share their emotions. They choose their emotions related to current hashtags: #love, #friends, #happiness, etc... Thanks to our **AI graphic algorithm**, each game with its emotions becomes a unique planet that the [emotiony.io](http://emotiony.io/) user can share, save or mint in/out of our marketplace.
+
+This is the strong value proposition of the [emotiony.io](http://emotiony.io/) *business model:* users thus feed the emotional big data with each game.
+
+**The market need**:  intelligent metrics from big data, metrics to establish market strategies or simply, make an emotional-data-driven decision. about a product/service/client.
+
+People (and companies) buy this segmented emotional data using our filter. They can choose a series of items (#date, #place, #time, #hashtags) to find out the *emotional metrics* related to each *query*.
+
+In this way, thanks to our **smart contract** (on Ethereum/Polygon), a **win-win connection and partnership** *are established between users* (who give their opinion about a #hashtag) and *buyers* (of emotional data).
+
+So, (1) users, (2) people (and companies) and (3) [emotiony.io](http://emotiony.io/) all together create a **fair, transparent and disruptive ecosystem.**

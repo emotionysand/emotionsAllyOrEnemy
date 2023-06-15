@@ -7,12 +7,18 @@ book:
   author: "emotiony.io"
   date: "12/6/2023"
   page-navigation: true
+  reader-mode: true
+  favicon: images/logo.png
+  twitter-card: true
+  back-to-top-navigation: true
+  site-url: https://book.emotionuy.io
   repo-url: https://github.com/emotionysand/emotionsAllyOrEnemy
-  repo-actions: [edit]
+  repo-actions: [edit, issue]
   downloads: [pdf, epub]
   sharing: [twitter, facebook, linkedin]
   chapters:
     - index.qmd
+    - contents/foreword.qmd
     - contents/intro.qmd
     - part: "Part I: Pain Exists"
       chapters:
@@ -49,6 +55,7 @@ book:
 
 format:
   html:
+    cover-image: cover.png
     theme: 
       light: cosmo
       dark: superhero

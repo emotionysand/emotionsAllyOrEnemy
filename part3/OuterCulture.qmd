@@ -1,85 +1,100 @@
-
+m
 
 # Outer culture
 
+##  Backgrounds
 
-The outer cultural elements that configure your environment are these three backgrounds:
+The outer cultural elements that configure your environment are these four backgrounds:
 
-culture create cognitive bias,  
-universal beliefs,
-particular culture from linguistics, that is, what language you talk and how many languages you know.
+- culture create **cognitive bias**,  
+- **universal beliefs**,
+- particular **culture** from linguistics, that is, what language you talk and how many languages you know
+- **moral** fundations
 
 
-Cognitive biases are the no-logical errors that arise in your line of reasoning when you make a decision. This judgment is flawed by personal beliefs highly influenced by the cultural environment. You share this bias with a lot of people of your country, continent, cultural tradition or same language speakers.
+<mark>Cognitive biases are the no-logical errors that arise in your line of reasoning when you make a decision.</mark> This judgment is flawed by personal beliefs highly influenced by the cultural environment. You share this bias with a lot of people of your country, continent, cultural tradition or same language speakers.
 
 Your brain absorbs huge quantities of information during the day. Some of this information we consciously think about.
 
-But as the conscious part of the brain can only be the focus on one thing at a time, your brain is looking for shortcuts to help you make decisions and do not get stuck. These mental unconscious shortcuts often fail to produce a correct judgment, and the result is cognitive biases.
+But as the conscious part of the brain can [only be the focus on one thing at a time](/part2/Lateralization.qmd#step-1-seek-the-big-picture), your brain is looking for shortcuts to help you make decisions and do not get stuck.
 
-"You'll never cross an emotional bridge, if you keep rushing back to the other side.” 
-T.F. Hodge
+These mental unconscious *shortcuts* often fail to produce a correct judgment, and the result is cognitive biases.
 
-
-
+>You'll never cross an emotional bridge,  
+>if you keep rushing back to the other side.  
+>  
+>-- T.F. Hodge
 
 The most important types of biases are overconfidence, self-serving, herd mentality, loss aversion, framing cognitive, narrative fallacy, anchoring and confirmation.
 
-The cognitive biases and universal beliefs could be erased if you use the tools provided in Chapter Two by Vishen Lakhiani and Bryon Katie.
 
-In any case, the list of cognitive biases and universal beliefs is almost infinite. Every minute they boost negative emotions and drain lots of energy so the work here is listing all the bias and beliefs and one-by-one with the tools provided you should learn how they operate. And doing this you has wakled the first and most dificult step. With understandig and acceptance you will annihilate the power they own over you.
+## Universal Beliefs
 
-List of universal beliefs:
 
-I need to know what to do.
-I don’t know what to do.
-I know what is best for others.
-I know what is best for myself.
-Something terrible is going to happen.
-It’s possible to make a mistake.
-People should not lie.
-People should respect me.
-I can control how others feel about me.
-I feel your energy.
-I need more money.
-Life isn’t fair.
-Parents should love their children.
-Children should love their parents.
-I need to make a decision.
-I can’t do anything right.
-I can disappoint people.
-I don’t want to look foolish.
-There’s too much to do.
-There’s not enough time.
-I know what you need.
-I am worthless.
-It’s my job to make you happy.
-I need a partner to be happy.It’s my fault.
-I should be different.
-I need to be careful in life.
+The cognitive biases and universal beliefs could be erased if you use the tools provided in [Part Two](/part2/MindValley.qmd) by *Vishen Lakhiani* and *Bryon Katie*.
+
+In any case, the list of cognitive biases and universal beliefs is almost infinite.
+
+Every minute they boost negative emotions and drain lots of energy so the work here is listing all the bias and beliefs and one-by-one with the tools provided you should learn how they operate.
+
+And doing this you has wakled the first and most dificult step. With understandig and acceptance you will annihilate the power they own over you.
+
+List of **universal beliefs**:
+
+- I need to know what to do.
+- I don’t know what to do.
+- I know what is best for others.
+- I know what is best for myself.
+- Something terrible is going to happen.
+- It’s possible to make a mistake.
+- People should not lie.
+- People should respect me.
+- I can control how others feel about me.
+- I feel your energy.
+- I need more money.
+- Life isn’t fair.
+- Parents should love their children.
+- Children should love their parents.
+- I need to make a decision.
+- I can’t do anything right.
+- I can disappoint people.
+- I don’t want to look foolish.
+- There’s too much to do.
+- There’s not enough time.
+- I know what you need.
+- I am worthless.
+- It’s my job to make you happy.
+- I need a partner to be happy.It’s my fault.
+- I should be different.
+- I need to be careful in life.
 
 After cognitive biases and universal beliefs, you may turn to the vocabulary and words you usually use because they create the way your ideas are and therefore how emotions are delivered.
 
+## Words are not universal
+
 As an exemple, these words are not universal and neither the emotions which they describe: boredom, nostalgia, amae, sprezzatura, nonchalance, baraka and mokita. Let's see someone.
 
-"Nostalgia" was coined in 1688 by Johannes Hofer as "mal du pays", that is "homesickness". Symptoms were also thought to include fainting, high fever, indigestion, stomach pain, and death. Nowadays this word means somethig different and very far from it was created.
+- *Nostalgia* was coined in 1688 by Johannes Hofer as "mal du pays", that is "homesickness". Symptoms were also thought to include fainting, high fever, indigestion, stomach pain, and death. Nowadays this word means somethig different and very far from it was created.
 
 
+- From Japanese tradition, the concept of *amae* is about being in harmony with others and being able to depend on them as a child could depend on their parents. Even though a child can act ridiculous, their parents would indulge them.
 
-From Japanese tradition, the concept of "amae" is about being in harmony with others and being able to depend on them as a child could depend on their parents. Even though a child can act ridiculous, their parents would indulge them.
+- *Sprezzatura* is an Italian word defined as "a certain nonchalance, so as to conceal all art and make whatever one does or says appear to be without effort and almost without any thought about it". It is the ability of the courtier to display "an easy facility in accomplishing difficult actions which hides the conscious effort that went into them".
 
-"Sprezzatura" is an Italian word defined as "a certain nonchalance, so as to conceal all art and make whatever one does or says appear to be without effort and almost without any thought about it". It is the ability of the courtier to display "an easy facility in accomplishing difficult actions which hides the conscious effort that went into them".
+- The word *Mokita* is a fantastic word taken from a language called Kivila. It is spoken in Papua New Guinea. The best translation you can get of Mokita is, “the truth we all know but agree not to talk about.”
 
-The word "Mokita" is a fantastic word taken from a language called Kivila. It is spoken in Papua New Guinea. The best translation you can get of Mokita is, “the truth we all know but agree not to talk about.”
+- *Baraka* is an ancient Sufi word, which can be translated as "a blessing, or as the breath, or essence of life from which the evolutionary process unfolds."
 
-"Baraka" is an ancient Sufi word, which can be translated as "a blessing, or as the breath, or essence of life from which the evolutionary process unfolds."
+- In France, if you describe someone as *nonchalant*, you mean that they appear not no worry or care about things and that they seem very calm.
 
-In France, if you describe someone as "nonchalant", you mean that they appear not no worry or care about things and that they seem very calm.
+## Summing up 
 
-Summing up, you have seen a lot of components which act at the very moment of building a single emotion:
+Summing up, you have seen a lot of components which act at <mark>the very moment of building a single emotion into feeling</mark>:
 
-biology and physiology
+> biology and physiology
 primary response
 the structure itself of your brain
+lateralization
 culture
 inner culture
 education and family traits,
@@ -89,11 +104,12 @@ outer and environmental culture
 cognitive bias
 universal beliefs
 country culture and linguistics
+moral fundations
 
 
 So, the outcome of your body and brain when you feel something is a mix of several factors interacting in various ways. 
 
 This final feeling is a representation of a situation, and a bad reading on that situation conditioned by bad readings of the past may be fatal. 
 
-This process of reading situations and react and record information through time form your identity.
+This process of reading situations and react and record information through time form your **identity**.
 

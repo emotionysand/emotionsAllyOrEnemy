@@ -4,14 +4,14 @@
 ## Meditation: unlocking the secret and science of happiness
 
 
-``The Joy of Living`` is a path of meditation practice that is very easily to follow by you and focus in explaining it to modern world.
+``The Joy of Living`` is a path of meditation[^1] practice that is very easily to follow by you and focus in explaining it to modern world.
 
 ::: {.callout-note}
 Meditation is a key-tool to master emotions, to understand negative and positive emotions, it empower and sharpen your real intelligence. Ultimatly, it is an esencial tool to understand your own mind.
 :::
 
 
-Meditation deals with basic functions of the mind and the movements toward inner peace and away from suffering.
+Meditation deals with basic functions of the mind and the movements toward inner peace and away from suffering.[^2]
 
 ## Goals
 
@@ -36,5 +36,5 @@ The goals of this tool included:
 - How to see beyond superficial thoughts and emotions and see things as they actually are, rather the mistaken version of reality that we project onto the world.
 
 
-[^1]: [](){.external}
-[^2]: [](){.external}
+[^1]: [The Joy of Living: Unlocking the Secret and Science of Happiness](https://www.goodreads.com/book/show/289448.The_Joy_of_Living){.external}
+[^2]: [What is the Joy of Living?](https://tergar.org/programs/what-is-the-joy-of-living/){.external}

@@ -3,7 +3,7 @@
 
 ## Vishen Lakhiani and MindValley know the code
 
-**You need to know the code**, as a engineer and programmer,*Vishen Lakhiani*, provides you with powerful tools to understand our negative emotions and mindset and how destructive they can be in the tech world we live. 
+**You need to know the code**, as a engineer and programmer,*Vishen Lakhiani*,[^2] provides you with powerful tools to understand our negative emotions and mindset and how destructive they can be in the tech world we live.[^1]
 
 This **map** guides you how to break the code and achieve extraordinary results in life.
 
@@ -73,5 +73,5 @@ Fifth, be unfuckwithable and embrace your quest. Your motivation for reaching yo
 >-- Shawn Achor
 
 
-[^1]: [](){.external}
-[^2]: [](){.external}
+[^1]: [Mindvalley ](https://www.mindvalley.com/){.external}
+[^2]: [The Code of the Extraordinary Mind: by Vishen Lakhiani | Conversation Starters](https://www.goodreads.com/book/show/37908102-the-code-of-the-extraordinary-mind){.external}
